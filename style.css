@@ -19,24 +19,24 @@
     
 }
 .comentarios{
-    
+    width: 700px;
     padding: 10px;
     position: relative;
    
 }
 
 
-.padre img{
+.content img{
     width: 50px;
     border-radius: 50%;
     margin-right: 10px;
 }
 
-.padre{
+.content{
     border: 1px solid #fff;
     padding: 10px;
     background-color: steelblue;
-    width: 500px;
+    width: 100%;
     display: flex;
     align-items: center;
     border-radius: 20px;
